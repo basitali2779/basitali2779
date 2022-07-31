@@ -1,4 +1,4 @@
-<!MasterHead><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="1012" height="350")](https://basitali2779.io)
+<!MasterHead><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="800" height="350")](https://basitali2779.io)
 <h1 align="center">Hi 👋, I'm Aabdulbasit Ali</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="450" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
